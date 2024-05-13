@@ -1,0 +1,22 @@
+
+    table, th ,td 
+    {
+        border: 1px solid black;
+        border-collapse: collapse;
+        margin-left: auto; margin-right: auto;
+    }
+
+     /* table
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    */
+
+    #ak{text-align: right;}
+    .ab{padding-bottom: 25%; text-align: right;}
+
+
+
+
